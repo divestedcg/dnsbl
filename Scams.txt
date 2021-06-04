@@ -1,0 +1,66 @@
+#
+#Scams Blocklist
+#Distributed by Divested Computing Group
+#License: GPL-3.0-or-later
+#Last updated 2016/08/29
+#Covers: Malware/Misc/Phishing/Scam/Spam
+#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#
+
+aimware.net
+card-suntrust.com
+confirm-identity.net
+csgocheats.com
+csgoiounge.com
+csgolaunge.com
+csgolonge.com
+csgoloungcs.com
+csgo-loungs.com
+csgoprizes.com
+csgorumble.com
+csqolunge.com
+epicappsolutions.com
+f2p.com
+fast-free-streaming.com
+oneplus2.co
+raidcall.com
+raidcall.org
+rawconstruction.co.uk
+razerchat.org
+real-dating.org
+staemcommunity.com
+stalkerfinders.com
+steamcomnunity.com
+steamcomuniity.com
+steamncommuniity.com
+swagbucks.com
+twtich.tw
+winalert.s3.amazonaws.com
+www.aimware.net
+www.card-suntrust.com
+www.confirm-identity.net
+www.csgocheats.com
+www.csgoiounge.com
+www.csgolaunge.com
+www.csgolonge.com
+www.csgoloungcs.com
+www.csgo-loungs.com
+www.csgoprizes.com
+www.csgorumble.com
+www.csqolunge.com
+www.epicappsolutions.com
+www.f2p.com
+www.fast-free-streaming.com
+www.oneplus2.co
+www.raidcall.com
+www.raidcall.org
+www.rawconstruction.co.uk
+www.razerchat.org
+www.real-dating.org
+www.staemcommunity.com
+www.stalkerfinders.com
+www.steamcomnunity.com
+www.steamcomuniity.com
+www.steamncommuniity.com
+www.swagbucks.com
+www.twtich.tw

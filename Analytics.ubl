@@ -1,0 +1,14 @@
+#
+#Analytics Blocklist
+#Distributed by Divested Computing Group
+#License: GPL-3.0-or-later
+#Last updated 2016/08/22
+#Covers: Analytics/Tracking
+#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#
+
+||linkedin.com/mob/tracking^
+/utag.js$script
+||wellsfargo.com/bwts^
+||wellsfargo.com/tas^
+www.youtube.com###pla-shelf

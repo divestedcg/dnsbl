@@ -1,0 +1,42 @@
+#
+#"Genealogy" Blocklist
+#Distributed by Divested Computing Group
+#License: GPL-3.0-or-later
+#Last updated 2017/05/20
+#Covers: Misc
+#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#
+
+23andme.com
+ancestry.com
+automatedgenealogy.com
+cyndislist.com
+familyhistorydaily.com
+familysearch.org
+familytree.com
+genealogybank.com
+genealogy.com
+genealogy.org
+geni.com
+home.rootsweb.ancestry.com
+myheritage.com
+ngsgenealogy.org
+resources.rootsweb.ancestry.com
+searches.rootsweb.ancestry.com
+uscis.gov
+usgenweb.org
+www.23andme.com
+www.ancestry.com
+www.automatedgenealogy.com
+www.cyndislist.com
+www.familyhistorydaily.com
+www.familysearch.org
+www.familytree.com
+www.genealogybank.com
+www.genealogy.com
+www.genealogy.org
+www.geni.com
+www.myheritage.com
+www.ngsgenealogy.org
+www.uscis.gov
+www.usgenweb.org

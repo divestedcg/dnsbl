@@ -1,0 +1,42 @@
+#
+#Toxic Blocklist
+#Distributed by Divested Computing Group
+#License: GPL-3.0-or-later
+#Last updated 2015/09/13
+#Covers: Misc
+#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#
+
+about.com
+answers.com
+ask.com
+buzzfeed.com
+clickhole.com
+dictionary.com
+diply.com
+download.com
+download.cnet.com
+lemonadefreedom.com
+merriam-webster.com
+mumble.com
+nametests.com
+rebrn.com
+thesaurus.com
+weather.com
+webmd.com
+www.about.com
+www.answers.com
+www.ask.com
+www.buzzfeed.com
+www.clickhole.com
+www.dictionary.com
+www.diply.com
+www.download.com
+www.lemonadefreedom.com
+www.merriam-webster.com
+www.mumble.com
+www.nametests.com
+www.rebrn.com
+www.thesaurus.com
+www.weather.com
+www.webmd.com

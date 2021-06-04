@@ -1,0 +1,14 @@
+#
+#Cyanogen Blocklist
+#Distributed by Divested Computing Group
+#License: GPL-3.0-or-later
+#Last updated 2016/04/08
+#Covers: Analytics/Tracking
+#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#
+
+account.cyngn.com
+api.cyngn.com
+shopvac.cyngn.com
+stats.cyanogenmod.org
+stats.lineageos.org
