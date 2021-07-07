@@ -4,7 +4,7 @@
 #License: GPL-3.0-or-later
 #Last updated 2015/09/12
 #Covers: Ads/Analytics/Misc/Tracking
-#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#Donate: https://divested.dev/donate
 #
 
 tiles.cdn.mozilla.net

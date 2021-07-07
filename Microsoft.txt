@@ -5,7 +5,7 @@
 #Last updated 2015/08/24
 #Covers: Ads/Analytics/Tracking
 #Extra Info: May break certain features
-#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#Donate: https://divested.dev/donate
 #
 
 a-0001.a-msedge.net

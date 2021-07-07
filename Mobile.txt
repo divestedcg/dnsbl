@@ -6,7 +6,7 @@
 #Covers: Ads/Analytics/Malware/Misc/Scam/Spam/Tracking
 #http://adblock.gjtech.net/?format=unix-hosts merged on 08/23/2015
 #https://adaway.org/hosts.txt merged on 08/23/2015
-#Tip Jar: BTC: bc1qxxxwga0s3h6mhnqcy39hdj779enpv465af4z6a
+#Donate: https://divested.dev/donate
 #
 
 1781.api.swrve.com
