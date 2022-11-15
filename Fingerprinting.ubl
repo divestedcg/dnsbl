@@ -2,32 +2,19 @@
 #Fingerprinting Blocklist
 #Distributed by Divested Computing Group
 #License: GPL-3.0-or-later
-#Last updated 2016/09/02
+#Last updated 2022/09/22
 #Covers: Analytics/Tracking
 #Donate: https://divested.dev/donate
 #
 
-
-#
-#Sites doing fingerprint by unknown/inline/merged script
-#
-#Note: Some sites use RequireJS which bundles FingerprintJS2, blocking the initial script will prevent site usage, there is a decent chance the site isn't actually using the resulting fingerprint
-#https://icloud.com #[Merged:javascript-packed.js] Canvas fingerprinting is a picture of the current day which is ridiculous
-#https://www.usbank.com #[Merged:loginDesktop.js]
-#https://www.wellsfargo.com #[Inline] Second to last line, super-duper obfuscated, uses a whole bunch of sources, most likely custom
-
-
-#
-#Common Scripts
-#
 /browser_fingerprint*$script
 /detect-font-loading*$script
 /evercookie/*
 /evercookie*$script
 /fingerprint*$script
-/font-detective*$script
 /font-detect*$script
 /fontdetect*$script
+/font-detective*$script
 #/hsts*$script
 /jquery.browser-fingerprint*$script
 /js-murmur*$script
@@ -39,23 +26,54 @@
 /superCookie*$script
 /tor-fingerprint*$script
 
+/addthis.js$script
+/admaven.js$script
+/adsafeprotected.js$script
+/adscore.js$script
+/afk-media.js$script
+/analytics-engine.js$script
+/areyouahuman.js$script
+/arkoselabs.js$script
+/augur.js$script
+/behaviosec.js$script
+/bluecava.js$script
+/bouncex.js$script
+/bquery.js$script
+/cdn-net.js$script
+/datadome.js$script
+/distillnetworks.js$script
+/doubleverify.js$script
+/fbevents.js$script
+/fingerprint2.js$script
+/fingerprintjs_commercial.js$script
+/forter.js$script
+/fraudmetrix.js$script
+/giveaway_spam.js$script
+/google_pubads.js$script
+/Imprint.js$script
+/infoscore-tracking-technology.js$script
+/inside-graph.js$script
+/liverail.js$script
+/malvertising_css.js$script
+/malvertising.js$script
+/maxmind_device.js$script
+/meinkauf.js$script
+/moatads.js$script
+/perimeterx.js$script
+/pixelbundle.js$script
+/popads.js$script
+/rsi.js$script
+/shortest.js$script
+/siftscience.js$script
+/simility.js$script
+/sixtufixer.js$script
+/target_antibot.js$script
+/threatmetrix.js$script
+/tinypass.js$script
+/vcmedia.js$script
+/whiteops.js$script
+/yandex_metrics.js$script
 
-#
-#Site Specific Scripts
-#
 ||browserleaks.com/js/javascript.js$script
 ||cdn-net.com/cc.js$script
-||connect.secure.wellsfargo.com/ATADUN/*/sync/js/$script
-||connect.secure.wellsfargo.com/auth/static/prefs/atadun.js$script
-||connect.secure.wellsfargo.com/auth/static/scripts/conutils-*.js$script
-||ct-m-fbx.fbsbx.com$script
-||glassdoor.com/glass.*.js$script
-||imgur.com/min/global.js$script
 ||maxmind.com/v/*/js/device.js$script
-||onlinebanking.usbank.com/Auth/content/scripts/Shared/machineSecret.js$script
-#||static.licdn.com/scds/concat/common/js?h=*-*-*-*-*-*-*-*$script
-#||static.licdn.com/scds/concat/common/js?h=*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*$script
-#||static.licdn.com/scds/concat/common/js?v=build-2000_8_57782-prod&f=js%2Frum_bootstrap&f=js%2Frum_bootstrap_fizzy_dust&f=lib%2Fsecurity-libs%2Fnext%2Fsecurity-lib.min&f=js%2Futil%2FA11yMenu&f=scripts%2Fshared%2FNodeStash&f=scripts%2Fshared%2FPageVisibility&f=scripts%2Fshared%2FWeightedQueue&f=scripts%2Fshared%2FGlobalAlertManager&fc=2
-||static.targetimg1.com/ssx/ssx.mod.js$script
-||wayfair.com/wf-*.js$script
-||wellsfargo.com##script:contains(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACGFjVEwAAAABAAAAAcMq2TYAAAANSURBVAiZY2BgYPgPAAEEAQB9ssjfAAAAGmZjVEwAAAAAAAAAAQAAAAEAAAAAAAAAAAD6A+gBAbNU+2sAAAARZmRBVAAAAAEImWNgYGBgAAAABQAB6MzFdgAAAABJRU5ErkJggg==)
