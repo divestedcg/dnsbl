@@ -11,7 +11,7 @@
 /detect-font-loading*$script
 /evercookie/*
 /evercookie*$script
-/fingerprint*$script
+#/fingerprint*$script
 /font-detect*$script
 /fontdetect*$script
 /font-detective*$script
