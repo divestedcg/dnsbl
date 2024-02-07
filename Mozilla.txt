@@ -1,7 +1,7 @@
 #
 #Mozilla Blocklist
 #Distributed by Divested Computing Group
-#License: GPL-3.0-or-later
+#License: CC0
 #Last updated 2015/09/12
 #Covers: Ads/Analytics/Misc/Tracking
 #Donate: https://divested.dev/donate

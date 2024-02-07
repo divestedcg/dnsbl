@@ -1,7 +1,7 @@
 #
 #"Genealogy" Blocklist
 #Distributed by Divested Computing Group
-#License: GPL-3.0-or-later
+#License: CC0
 #Last updated 2017/05/20
 #Covers: Misc
 #Donate: https://divested.dev/donate

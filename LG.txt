@@ -1,7 +1,7 @@
 #
 #LG Blocklist
 #Distributed by Divested Computing Group
-#License: GPL-3.0-or-later
+#License: CC0
 #Last updated 2016/02/14
 #Covers: Ads/Tracking
 #http://doctorbeet.blogspot.co.uk/2013/11/lg-smart-tvs-logging-usb-filenames-and.html

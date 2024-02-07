@@ -1,7 +1,7 @@
 #
 #Cameras Blocklist
 #Distributed by Divested Computing Group
-#License: GPL-3.0-or-later
+#License: CC0
 #Last updated 2016/06/04
 #Covers: Analytics/Malware/Misc/Tracking
 #Extra Info: Most IP cameras tend to have a "convienent" remote connection feature for consumers, however some cameras don't let you turn this off and the ones that do still try to phone home. This list attempts to prevent that.

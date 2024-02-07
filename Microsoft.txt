@@ -1,7 +1,7 @@
 #
 #Microsoft Blocklist
 #Distributed by Divested Computing Group
-#License: GPL-3.0-or-later
+#License: CC0
 #Last updated 2015/08/24
 #Covers: Ads/Analytics/Tracking
 #Extra Info: May break certain features
