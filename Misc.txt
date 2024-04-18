@@ -177,3 +177,5 @@ www.yavli.com
 www.zenkreka.com
 yavli.com
 zenkreka.com
+notepad.plus
+advertising-api-eu.amazon.com
