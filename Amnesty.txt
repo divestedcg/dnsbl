@@ -1,10 +1,11 @@
 #
 #Amnesty International Investigations Blocklist
 #License: CC BY 2.0
-#Last updated 2023/03/31
+#Last updated 2024/04/25
 #https://github.com/amnestytech/investigations
-#cat */domains.txt | sort -u > Amnesty.txt
+#cat */*domains* */*/*domains* | sort -u > Amnesty.txt
 #
+
 123tramites.com
 14-tracking.com
 1minto-start.com
@@ -19,6 +20,7 @@
 800health.net
 911hig11carcay959454.com
 aalaan.tv
+ablazenutrient.net
 abreastelongated.com
 abroadwizard.net
 absintheskewer.net
@@ -186,6 +188,7 @@ aortauncapped.net
 apcdlords.net
 api-apple-buy.com
 apiapple.com
+api.ciscofreak.com
 apigraphs.net
 api-telecommunication.com
 apiwacdn.com
@@ -222,6 +225,7 @@ armholereggae.com
 aromaprimal.net
 around-theglobe.co
 arrowowner.com
+art.guillermoespana.com
 artmaster.uk
 ar-tweets.com
 ascertainprance.net
@@ -682,6 +686,7 @@ cnn.gr.com
 coasterjack.net
 cobblebuttons.net
 cobwebsixtieth.org
+coco.cechire.com
 coddurably.net
 coerceunreal.com
 coffecups.online
@@ -886,6 +891,7 @@ defilingrectify.net
 defrostsmugness.org
 deftlyunshipped.com
 deityculpable.net
+delicalo.dnsalias.net
 delivery-24-7.com
 delousesnowdrift.net
 deltaburner.com
@@ -1038,6 +1044,7 @@ duressdeeply.link
 dwarfscoff.net
 dwellingacting.net
 dwindlescandal.com
+dynamic-dns.net
 dynastyprewashed.net
 dysandancers.com
 dyslexicaxis.net
@@ -1070,6 +1077,7 @@ economistdebit.link
 editorscolumn.net
 edolio5.com
 effectivespeech.net
+efsyn.news
 efsyn.online
 eg-gov.org
 egov-online.com
@@ -1096,6 +1104,7 @@ emails-support.site
 emiratesfoundation.net
 emitbooting.net
 emonitoring-paczki.pl
+emvolio-gov.gr
 encircleshrunk.net
 encroachdelta.link
 encryptgraveness.link
@@ -1294,6 +1303,7 @@ flagstickglaring.net
 flagstoneblatantly.net
 flashbackbacktalk.org
 flash.browserupdate.download
+flash.gr.com
 flashobligation.com
 flashtraininggoal.com
 flatbluenotes.net
@@ -1743,6 +1753,7 @@ income-tax.online
 indrive.info
 industry-specialist.com
 ineediscounts.com
+inews.gr.com
 infinitysky.in
 info24.live
 infoquiz.net
@@ -1760,6 +1771,7 @@ instagam.in
 instagam.photos
 instangram.com.mx
 instegram.co
+insurance.gr.com
 internetmobilespeed.com
 intim-media.net
 investigationews.com
@@ -1896,6 +1908,7 @@ landflatheart.com
 landingpge.xyz
 landingpg.xyz
 landlordimpose.link
+land.rellecharlessper.com
 landscapepaddle.com
 landslideserrated.org
 landstofree.com
@@ -1987,6 +2000,7 @@ lispperoxide.com
 lisprinsing.com
 littlefrogalarm.com
 littlemaster.net
+live24.gr.com
 livelyvertigo.net
 live-once.net
 livingwithbadkidny.xyz
@@ -2031,6 +2045,7 @@ loveandhatenow.com
 lowerkitchen.com
 lowervalues.com
 lowlight.xyz
+lubentv.com
 lucidtwisty.com
 luckinessonward.net
 lucygardens.net
@@ -2429,6 +2444,7 @@ nissan.gr.com
 nitrogames.in
 nitroqensports.eu
 nnews.co
+node.podzone.org
 noextramoney.com
 noloveforyou.com
 nomorewarnow.com
@@ -3103,6 +3119,7 @@ russian4u.net
 rustingcase.com
 rustyicemelon.net
 rythemsjoy.club
+s3.hiahornber.com
 sabafon.info
 sabotagereprogram.com
 sacramentanswering.net
@@ -3447,6 +3464,7 @@ squashcustody.net
 squealinghypnotic.net
 squeegeeelves.com
 srf-goolge.site
+ssl.arkouthrie.com
 sslbind.com
 stackedmouses.com
 stagereburial.com
@@ -3732,6 +3750,7 @@ tiol.xyz
 tipoffthieving.org
 tippedanvil.com
 tipperoverrate.net
+tips.jasperpfeiffer.com
 tlgr-me.org
 tly.gr.com
 tly.link
@@ -3740,6 +3759,7 @@ tobepure.com
 todaysdeals4u.com
 todoinfonet.com
 toggletools.com
+tokoulouri.live
 tommyfame.com
 tomorrowpastno.com
 tookcheckout.com
@@ -3845,6 +3865,7 @@ turretplatter.net
 turtleanimating.com
 tutanota.org
 tvshowcusting.com
+tvxs.news
 tweedtranslate.net
 twentyamusable.net
 twentynutty.org
@@ -4093,6 +4114,7 @@ voicingcable.com
 volcanodistance.com
 volcanosregion.com
 volleysubdued.com
+vouliwatch.gr.com
 voyageappear.net
 waffleswithnutella.com
 waitingtoload.com
@@ -4189,6 +4211,7 @@ whynotthisnow.net
 whynotworkonit.top
 whynotyesterday.com
 whypillyellow.com
+widget.shoreoa.com
 wi-fi.email
 wikistone.net
 wildfowlexploit.org
@@ -4311,6 +4334,7 @@ zm-banks.com
 zm-weather.com
 zoologycustomer.com
 zougla.gr.com
+zougla.news
 zougla.newsablazenutrient.net
 zshirts.in
 zsports-info.com
