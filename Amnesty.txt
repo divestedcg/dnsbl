@@ -1,7 +1,7 @@
 #
 #Amnesty International Investigations Blocklist
 #License: CC BY 2.0
-#Last updated 2024/04/25
+#Last updated 2024/05/02
 #https://github.com/amnestytech/investigations
 #cat */*domains* */*/*domains* | sort -u > Amnesty.txt
 #
@@ -93,6 +93,8 @@ affise.app
 affordculminate.com
 aflameattentive.org
 afraidprevalent.net
+africatech.eu
+afrinews.eu
 afriquenouvelle.com
 aftermathafoot.net
 aghastmascot.net
@@ -117,6 +119,7 @@ al7eraknews.com
 alawaeltech.com
 albumautomatic.net
 albumphotopro.biz
+alertanalysis.org
 alert-newmail02.pro
 alexandr01299.xyz
 aliascannon.com
@@ -130,6 +133,7 @@ allergiesandcooking.com
 allfadiha.co
 alljazeera.co
 allladiesloveme.com
+all-life-fitness.org
 alloggiocenthia.com
 all-sales.info
 allthecolorsyoulike.com
@@ -165,7 +169,9 @@ ancienthistory.xyz
 ancientmystified.link
 and.retardrattle.website
 android-apps.tech
+androidcheckupdate.com
 android-core.org
+androidsensorfirmware.net
 android-updates.net
 aneurismcharbroil.com
 angelfishseltzer.net
@@ -199,6 +205,7 @@ appetiteretreat.com
 applegoatskin.net
 appleleaveit.co
 applepps.com
+applibraryupdate.network
 applicationcreation.net
 application-secure.com
 applications-secure.com
@@ -222,6 +229,7 @@ argueheadstand.com
 armadillovanish.net
 armfuldocile.net
 armholereggae.com
+arninja.eu
 aromaprimal.net
 around-theglobe.co
 arrowowner.com
@@ -237,6 +245,8 @@ asrarrarabiya.com
 asresidence.info
 assembled-battery.com
 astronauturban.link
+astroplanet.org
+ateliernow.org
 atheere.com
 atlaslions.info
 attainviolin.com
@@ -268,6 +278,7 @@ automatedpaddling.com
 automatedrelax.org
 automatedsynopsis.net
 autoredirect.net
+autotechhelp.net
 availabletidings.org
 avenuereborn.com
 avidunleaded.com
@@ -281,6 +292,7 @@ axis-indication.net
 babies-bottles.com
 backbonedscouring.net
 backlightsingular.net
+backpackerreviews.org
 backpedalclover.com
 backrestcrane.org
 backrestracoon.org
@@ -316,11 +328,15 @@ barricadelunchroom.com
 bashchivalry.com
 basicallyhandrail.net
 basilunfailing.com
+basketballreviews.org
 basketcase.uk
 bbc-africa.com
+bbc.bio
 bbcsworld.com
+bbc.tf
 bdaynotes.com
 beachplay.in
+beaconzero.net
 beanbounce.net
 bearingglitter.org
 beautifulhousesaroundme.com
@@ -334,20 +350,25 @@ bestcandyever.com
 bestday-sales.com
 bestfoods.co
 bestfriendneedshelp.com
+bestgeometry.org
+bestgreenblog.org
 bestheadphones4u.com
 besthotelsaroundme.com
 bestperfumesnow.com
 bestpresents4all.net
 bestsalesaroundme.com
+bestsflix.net
 beststores4u.com
 bestsushiever.com
 betterapplesearch.com
 better-deal.info
 betterhandsblack.com
+biceptech.org
 bicyclerentalnow.com
 biggunsarefun.com
 bigseatsout.net
 billednorth.com
+bincoupon.com
 birdbathmorning.com
 biscuit-taste.net
 bitanalysis.net
@@ -362,14 +383,17 @@ bi.tly.link
 bit-ly.link
 bit-ly.org
 bitlyrs.com
+bitsinflow.net
 bitt.fi
 bityl.me
 bity.ws
+biznetforum.eu
 bl33pon6373.com
 blackberry.org.mx
 black-bricks.net
 blacktrail.xyz
 blackwhitebags.com
+blastermaster.eu
 blendavenue.net
 blindlydivision.com
 blinkedmoaner.com
@@ -421,6 +445,8 @@ bottlehere.com
 bowlingdown.com
 bowlingshoein.com
 boxes-mix.net
+boxmaster.org
+boxpearl.eu
 boysrbabies.co
 brand-tech.net
 breachresonate.com
@@ -488,6 +514,7 @@ bursttrack.net
 bushfrighten.com
 busilysustained.net
 businesnews.net
+businesspractice.org
 businesssupportme.com
 business-today.info
 bussybeesallover.com
@@ -501,6 +528,7 @@ cablingtrack.net
 cadetfence.net
 cadillacestimator.com
 cadmiumworst.net
+cafelatenow.com
 cakefried.net
 calamariclunky.net
 calculatesymbols.com
@@ -525,11 +553,14 @@ caratrejoicing.com
 caravanshabby.com
 carbonimaging.org
 cardboardflashbulb.com
+carepile.net
+caretechno.net
 cargonearly.com
 caringsunset.com
 carlesspossum.net
 carmakersmirk.net
 carmania7.net
+caronspot.co
 carpentryparasail.net
 carpetdignity.com
 carportproofing.net
@@ -540,6 +571,7 @@ carryunhidden.net
 carsonroad.net
 carsticky.net
 cars-to-buy.com
+cartechnews.net
 cartintrack.net
 cartloadcraziness.org
 cartloadporthole.com
@@ -573,6 +605,7 @@ cellconn.net
 cell-mcel.info
 cellphone-inside.org
 cellphonesprices.com
+celltechnollogy.com
 cellular-updates.com
 cellularupdates.info
 cellular-updates.online
@@ -677,11 +710,13 @@ cloudads.net
 cloudbiggest.com
 cloudstatistics.net
 cloudtimesync.com
+cloudysystems.org
 clubbedisolation.net
 clubloading.net
 clubmovistar.com
 clubsforus.net
 cnn-africa.co
+cnn.gallery
 cnn.gr.com
 coasterjack.net
 cobblebuttons.net
@@ -691,6 +726,7 @@ coddurably.net
 coerceunreal.com
 coffecups.online
 coffee2go.org
+coffeedirectory.org
 coffeespot.link
 coffespots.com
 cognitionsecurity.net
@@ -723,6 +759,7 @@ companionexcavator.net
 companybreakfast.net
 compostdeflector.com
 comprisedplaypen.net
+computer-repair.org
 computer-set.com
 com-reports.net
 concavefrozen.net
@@ -764,6 +801,7 @@ cookiescom.com
 cookiesoutthere.com
 coolasiankitchen.com
 coolbbqtools.net
+coolbrandlabs.com
 cooledroads.net
 coolmath4us.net
 cool-smartphone-apps.com
@@ -771,6 +809,7 @@ copartnerretrieval.com
 copiedunderuse.com
 copymooing.com
 copyoutsource.com
+coralspire.net
 cornclean.com
 corncobundertone.link
 corneayonder.com
@@ -787,6 +826,7 @@ covid19masks.shop
 cozmo-store.net
 cpr-appointments.com
 cradlingtranspose.com
+craftsplex.net
 crashonline.site
 cratespray.net
 crawfishalive.org
@@ -849,9 +889,11 @@ cymbalopossum.link
 dailymusic.org
 daily-sport.news
 dailytaunt.net
+daily-tech.eu
 dairycannot.com
 dairyfreeload.net
 daisyrascal.org
+dakaractu.news
 damanhealth.online
 danas.bid
 dancersing.net
@@ -865,6 +907,7 @@ databasemeans.net
 data-center17.website
 data-formula.com
 dawnhamstring.net
+daysomega.com
 daysupport.uk
 dazzlerahoy.org
 ddetik.net
@@ -872,6 +915,7 @@ ddetik.org
 deadwordsstory.com
 deal4unow.com
 dealingmolehill.com
+dealsenterprise.com
 dealtconstruct.link
 dealtuncorrupt.com
 dearlegendseed.com
@@ -883,6 +927,8 @@ decencysnowbird.net
 deciphermanifesto.net
 declaredremote.net
 declineunluckily.link
+decofusion.eu
+deepearnings.net
 deepenthebond.net
 defacingtrustable.com
 defenselugged.net
@@ -906,6 +952,7 @@ derbyextent.com
 desertland.uk
 designednetwork.com
 designerbalsamic.net
+designercellular.com
 designingcure.net
 desktest1.xyz
 desktest5.xyz
@@ -921,6 +968,7 @@ diabolicfraction.com
 diabolicsizably.org
 diagramremover.net
 diagram-shape.com
+dialrooms.eu
 diameterdeceiving.net
 diaspora-news.com
 dicedoptions.com
@@ -934,6 +982,7 @@ dingoshifty.com
 diningip.com
 diningsprain.com
 dinneraroundyou.com
+dinnerfit.org
 diplomaoverhung.net
 diplomaunified.com
 dippedfoil.net
@@ -969,6 +1018,7 @@ dnsmachinefork.com
 dnsprotector.net
 dnsroof.com
 dns-upload.com
+doctorstar.org
 documentpro.org
 documents-view.com
 documents-viewer.com
@@ -1012,6 +1062,7 @@ dotroomeight.com
 dowhatyouneed.com
 downgradeproduct.com
 download4you.xyz
+draftshape.net
 dragonair.xyz
 drainagefencing.net
 dramatic-challenge.com
@@ -1025,9 +1076,11 @@ dreamyfriday.com
 driedammonia.org
 drillerschedule.net
 drinkableunequal.net
+drinksnow.org
 drivablewikipedia.net
 drivablewrath.net
 driventicket.com
+driverhacks.net
 drizzlybobbing.net
 droinjoin.xyz
 dropoutjackpot.org
@@ -1071,6 +1124,7 @@ eatingmagazine.net
 eatsaged.net
 ebill.cosmote.center
 eccentricdepletion.com
+echoswift.net
 ecommerce-ads.org
 economic-news.co
 economistdebit.link
@@ -1138,6 +1192,7 @@ equalmuck.com
 equatoranemia.net
 erasabletarantula.com
 ereportaz.news
+ericshop.org
 erraticstray.com
 erty.online
 esagonoworld.com
@@ -1181,6 +1236,7 @@ existingpass.com
 existingunsealed.net
 exorcismaskew.com
 exoticsendurance.com
+expandingtech.net
 expandrecolor.net
 expectantsalvation.net
 expired-getway.net
@@ -1189,6 +1245,7 @@ expiringdate.com
 exploreemail.net
 exposurethirstily.net
 expressfood.link
+expressotelecom.eu
 extend-list.net
 externalprivacy.com
 externaltransfers.com
@@ -1210,6 +1267,7 @@ fadewallwine.com
 fadi7apress.com
 fairchancefit.net
 falconheadfirst.com
+falconstudio.eu
 fallingstars.eu
 fallround.com
 fallsjuice.com
@@ -1217,6 +1275,7 @@ falsebreeder.com
 falsifycadet.com
 familyabroad.net
 fanciedpartner.com
+fansclear.net
 fantastic-gardens.com
 faqstuffworld.net
 fashioncontainer.net
@@ -1267,6 +1326,7 @@ finaboasto.info
 finalecane.net
 finalejailhouse.com
 finalstill.com
+financeanalyzer.net
 financecomments.net
 findavoucher.online
 findgoodfood.co
@@ -1295,6 +1355,7 @@ fisherman.engine.ninja
 fishingtrickz.com
 fishlight.nl
 fitness-for-ever.com
+fitnessstar.org
 fivelatrine.com
 fivereimburse.com
 flagpolerobe.org
@@ -1307,11 +1368,13 @@ flash.gr.com
 flashobligation.com
 flashtraininggoal.com
 flatbluenotes.net
+flexibilycompany.org
 flexipagez.com
 flickry.xyz
 flightjaybird.net
 flights-report.com
 flights-todays.com
+flipcollective.eu
 fliprevolver.net
 flockannouncer.net
 flocksmite.net
@@ -1322,6 +1385,7 @@ flyingbuyer.org
 flyingdoodle.net
 flying-free.online
 flynewfries.com
+flyrick.net
 fofopiko.org
 fogdetergent.com
 foldedcolor.link
@@ -1331,6 +1395,7 @@ fontstifling.com
 foodeveryhour.com
 foodforyou.info
 foodiez.online
+foodystudio.org
 footbathconfident.net
 footbathhusband.net
 footnotedoze.net
@@ -1391,10 +1456,17 @@ gadgetsshop.info
 gagunkind.net
 gagunlivable.net
 gaiamiacola.com
+gaincharts.net
 gainsunfounded.com
+gainthepain.com
+galaxy-toolkit.net
+galaxy-update-check.com
+galaxyupdatecheck.com
+galaxyupdate.network
 gallantlyhandwork.net
 gallstonegrew.net
 gamesauciness.com
+gamingtoday.org
 ganderviable.net
 ganglydespise.com
 garageanimosity.net
@@ -1417,14 +1489,17 @@ germlessoutgrow.net
 germproofpapyrus.com
 gestationtarnish.net
 getagift.info
+getappnion.org
 getelements.xyz
 getfirston.net
+getinstitution.org
 getoutofyourmind.com
 getphotosinstant.net
 getpoints.net
 getsignalapps.com
 getsignalapps.live
 getspeednows.com
+gettechnology.org
 gettingbook.net
 gettingchances.com
 gettingnuclei.com
@@ -1446,6 +1521,7 @@ glimmerpelican.org
 glittercases.net
 glitzymusty.link
 gloaterchallenge.com
+globalbikeshop.org
 globalcartons.com
 globalcoverage.co
 globalnews247.net
@@ -1481,6 +1557,7 @@ gosokm.com
 gossiphammock.com
 gossipsbollywoods.com
 gostatspro.com
+gotechtube.com
 gotolinks.top
 goto-newmail01.pro
 go-trip.online
@@ -1593,7 +1670,11 @@ hempower.shop
 henryspumps.com
 hexagonbuccaneer.net
 highclassdining.net
+hikewithmike.eu
 hillsaround.com
+hiphopreviews.org
+hirecheapcar.com
+history-guidance.net
 hitrafficip.com
 hmizat.co
 holdingspider.com
@@ -1630,6 +1711,7 @@ htmlmetrics.com
 htmlstats.net
 httpaccess.com
 hubertsgardens.in
+hugetech.org
 hughwindows.net
 humandiven.com
 humblebenefit.com
@@ -1772,6 +1854,8 @@ instagam.photos
 instangram.com.mx
 instegram.co
 insurance.gr.com
+intech.so
+internationalre.org
 internetmobilespeed.com
 intim-media.net
 investigationews.com
@@ -1814,6 +1898,8 @@ jaybirdbonnet.com
 jaywalkerranking.link
 jeeyarworld.com
 jenasvetro.com
+jeuneafrique.eu
+jeuneafrique.news
 jiffypreppy.com
 jobnutshell.net
 jockstrapdecibel.com
@@ -1822,6 +1908,9 @@ join.officeframe.work
 jointwillowluck.com
 jokesterappraisal.net
 jokinglyconclude.net
+jotnanews.co
+jotnanews.fr
+jotnanews.live
 joyfullypoach.net
 joystickboundless.net
 jquery-updater.xyz
@@ -1912,8 +2001,10 @@ land.rellecharlessper.com
 landscapepaddle.com
 landslideserrated.org
 landstofree.com
+laneandco.org
 lankinesstranslate.com
 laptop-parts.org
+laptoptech.org
 larkhypnotize.net
 last-chainleash.net
 lateout.net
@@ -1963,6 +2054,7 @@ liam-ryan.co
 libriworld.com
 license-updater.com
 lickingguiding.com
+lidarfirmwareupdate.network
 lif0.top
 lifedonor.net
 lifenoonkid.com
@@ -2020,6 +2112,7 @@ loadthatpage.com
 localdishmenu.net
 localegem.net
 localgreenflowers.com
+localsystems.org
 lockmake.net
 login-acc.email
 login-network.space
@@ -2042,9 +2135,12 @@ losnegocios.biz
 lost-n-found.net
 lostship.net
 loveandhatenow.com
+lovekitchen.org
 lowerkitchen.com
 lowervalues.com
 lowlight.xyz
+loyalpro.org
+loyarbox.org
 lubentv.com
 lucidtwisty.com
 luckinessonward.net
@@ -2115,6 +2211,7 @@ makeitshort.xyz
 makelifetwo.com
 makethetray.com
 mamba-live.com
+mambaweb.org
 managedev.net
 managedsnap.com
 management-help.com
@@ -2133,6 +2230,7 @@ manhoodgravy.com
 manoraonline.net
 manydnsnow.com
 maphonortea.com
+maplebook.org
 mapupdatezone.com
 margaritatuesday.net
 marinawikipedia.net
@@ -2164,6 +2262,7 @@ mcel-update.com
 md-news-direct.com
 mealrentyard.com
 meanspursuit.com
+medatcost.co
 medeka.net
 medeka.org
 medialoungecafe.org
@@ -2183,6 +2282,7 @@ merdek.org
 mergeandcenter.com
 methodslocal.com
 mgifweb.com
+michealblog.org
 mideast-today.com
 mifcbook.link
 miffingdec.org
@@ -2194,6 +2294,7 @@ mindscrable.net
 miniiosapps.xyz
 miralo-rapidamente.com
 mirrorgossip.com
+misoshiru.eu
 misticwawes.net
 mitube1.link
 mixershake.net
@@ -2309,6 +2410,7 @@ mygreathat.com
 mygummyjelly.com
 myheartbuild.com
 mykaspi.com
+mylaylastore.org
 mylogfrog.com
 mylovelypet.net
 my-mail-inbox.com
@@ -2373,6 +2475,7 @@ neptunetrack.com
 nerdtvfan.com
 nervyrelapsing.com
 net-protector.com
+netprotector.org
 netstatistics.net
 netvisualizer.com
 network190.com
@@ -2431,6 +2534,7 @@ nextgenprojects.info
 nextoncare.net
 niceonase.com
 niceonesa.net
+nicetreasures.com
 nicevibezaction.net
 nicknamestopper.net
 niftyolive.net
@@ -2483,6 +2587,7 @@ nuevaidea.co
 nuggetmaybe.org
 number4play.net
 numbercamper.net
+numbersnews.org
 numerousoverplay.com
 nuovocontesto.net
 nursingherbicide.com
@@ -2520,6 +2625,7 @@ onboardexplore.net
 oncenot.net
 oneadjump.com
 onecaryear.com
+oneinfluence.org
 one-isnot-enough.com
 oneleadingchat.com
 onerightdecision.com
@@ -2530,6 +2636,7 @@ onlinefreework.com
 online-loading.com
 onlinesenate.net
 onlineservices.gr.com
+onlineshoppingnetwork.org
 onlineshopzm.com
 onlookergestate.com
 onlycart.net
@@ -2628,6 +2735,7 @@ paperforcraft.com
 papermake.net
 papernotes.eu
 papers2go.co
+paperscissors.net
 papervoice.net
 parabolacornstalk.com
 paradisegoal.com
@@ -2669,6 +2777,7 @@ pdfviewer.app
 peculiarcrop.net
 penaltycanteen.com
 pencilsnowless.net
+penlife.org
 pensionchase.net
 peppersmoothies.net
 perceivebreach.net
@@ -2709,12 +2818,14 @@ pikirn-rakyat.net
 pikirn-rakyat.org
 pincattape.com
 pine-sales.com
+piratetv.org
 pizzafontario.com
 pizzatoyourplace.com
 planeocean.com
 plasticshovels.net
 platypuspension.com
 playbacktanned.link
+playerselection.eu
 playestore.net
 playfantasticsplastic.com
 playingpyramid.net
@@ -2770,6 +2881,7 @@ poteremistico.com
 pourcentfilers.com
 poweredbycpanel.com
 poweredlock.com
+powerway.org
 poxypoxy.xyz
 ppcisdead.com
 pprocessor.net
@@ -2832,6 +2944,7 @@ propercar.net
 proprietavivian.com
 prorateoverlaid.net
 protect-outlook.com
+proteinreviews.org
 protonemail.ch
 protothema.live
 protresponse.com
@@ -2862,6 +2975,7 @@ pushcartdata.net
 putdownslush.net
 puttboil.net
 puttylearning.com
+pythonsystems.org
 qaintqa.com
 qaoffers.net
 qlscoltivazione.com
@@ -2871,6 +2985,7 @@ qualifiedarmoire.net
 qualityfeeling.net
 quickendecidable.org
 quickenfax.com
+quickfindnow.net
 quickupdates.xyz
 quirkstonework.com
 quitmyjob.xyz
@@ -2911,6 +3026,7 @@ reachcomputer.com
 readingbooksnow.com
 readirectly.com
 realcartfixer.com
+realmac.org
 realmythtrend.com
 reapplyspokesman.net
 reapprovehanded.com
@@ -2921,6 +3037,7 @@ rebateblaspheme.net
 reborndonor.org
 receiptpending.net
 reception-desk.net
+recipeadvice.eu
 recitequail.com
 recklessstream.net
 recoilgiblet.org
@@ -3020,6 +3137,7 @@ rentaldiarycontent.com
 rentalindustries.com
 rentaltweezers.net
 rentmotors.net
+reordertree.net
 repaintgrower.net
 repealsmolder.net
 repentresisting.com
@@ -3041,6 +3159,8 @@ resolvedwhiff.net
 respectbadness.net
 restaurantsstar.com
 restkeepwest.com
+restroad.eu
+restroad.net
 results-house.net
 resupplyblabber.org
 resurfacediscount.net
@@ -3068,8 +3188,10 @@ rileylocks.com
 ringercan.net
 ringerplay.com
 riotduplicity.com
+risetech.one
 risingmoon.in
 risingthunderbird.net
+riskdrive.eu
 ritardatario.com
 rivaldefraud.com
 roadplanet.net
@@ -3111,6 +3233,7 @@ ruckusrut.net
 rugrailway.com
 rumorcape.net
 runningdownthehill.com
+runningmart.org
 runtimesecrets.net
 runtimeshow.com
 ruralconflict.link
@@ -3213,6 +3336,7 @@ securedlogin.org
 secured-url.net
 secure-email.site
 secure-emails.online
+securefilter.net
 secure-login.services
 secures-applications.com
 secures-browser.com
@@ -3235,6 +3359,8 @@ seizinggreedily.net
 seldompost.com
 select-edition.net
 selectivehumble.net
+selfblank.net
+selfhelptech.org
 selfmoonshine.org
 seltzerdefection.com
 semisweetcrafty.com
@@ -3242,7 +3368,13 @@ send2url.com
 sendhtml.net
 sendingurl.com
 sendingurl.net
+senedroid.net
+senego.fr
+senego.info
+seneweb.eu
+seneweb.news
 sensitiveoblivious.com
+sensomatics.net
 sepenet.gr.com
 sephoragroup.com
 septumboots.org
@@ -3252,6 +3384,7 @@ seriousprotection.net
 sermoncabbage.net
 serotoninuneaten.net
 servedumpster.link
+serverdetails.click
 servers-mobile.info
 servetubeless.net
 service-login.online
@@ -3268,6 +3401,7 @@ settinqs-myaccount.com
 settlechapter.link
 settlemarlin.net
 setupbonelike.com
+setupvalue.net
 sevenfoldfeisty.com
 severalheroes.com
 sextape225.me
@@ -3337,6 +3471,7 @@ sindonevs.org
 sindo-news.com
 sindo-news.net
 sindo-news.org
+singoffice.net
 site-lock.net
 sitepref.xyz
 site-redirecting.com
@@ -3402,13 +3537,17 @@ social-life.info
 social-rights.com
 socialstatistics.zapto.org
 sockstubename.com
+sodahub.org
+solararcade.eu
 solarbass.net
+solargeotech.net
 solargoup.xyz
 solargroup.xyz
 somewarmremember.com
 somuchrain.com
 so-this-is.com
 soulpast.net
+spacevocal.net
 sparepresence.com
 sparkeldesign.net
 sparkylogos.link
@@ -3440,6 +3579,7 @@ splurgehaziness.com
 spongytraps.org
 spooncapillary.com
 spoonhatbox.com
+sporthome.org
 sports-mdg.xyz
 sportsnewz.site
 sportssaint.net
@@ -3488,6 +3628,7 @@ starting-from0.com
 startingimplicit.link
 startingpencil.com
 startlingstoop.net
+startupfit.org
 startupsservices.net
 stateonboard.com
 static-graph.com
@@ -3543,6 +3684,7 @@ storageseminar.net
 storelive.co
 storeroomdirected.net
 storminworld.net
+storm-tech.org
 strandshed.net
 strangegloom.net
 strategyroles.com
@@ -3612,8 +3754,11 @@ sweetcup.co
 sweetpancakelost.com
 sweet-water.org
 swervefootless.net
+swiftecho.eu
 swiftlyrover.org
+swimaster.org
 swimmablespoiler.net
+swimmingcompany.org
 switchreviving.net
 swivelunmixable.net
 swordlegion.uk
@@ -3628,6 +3773,7 @@ syncmap.org
 syncservices.one
 synctimestamp.com
 syncupdate.site
+syndicationcdn.com
 synergycork.com
 synopsestrain.net
 systemtrees.com
@@ -3652,6 +3798,7 @@ talkneaton.com
 talknever.com
 talknotin.net
 talksheep.com
+taminessentials.net
 tantrumhandpick.net
 taredforest.com
 taskrequisite.com
@@ -3660,7 +3807,11 @@ tastinessonset.net
 tastyteaflavors.com
 tavernprotract.net
 teachskate.com
+techarmys.com
+techarmys.net
+techdeliver.cc
 techhelping.net
+technarrow.net
 telangana-news24.com
 telecomegy-ads.com
 telecom-info.com
@@ -3672,6 +3823,7 @@ temnpo.org
 template-iso.net
 tengailresto.net
 tengrinews.co
+ten-group.eu
 tentrosegain.com
 teslali.com
 teslal.shop
@@ -3692,6 +3844,7 @@ thecoffeeilove.com
 theftrefinance.com
 thefuturearticle.net
 thehighesttemple.com
+theholder.org
 thehoteloffers.com
 themeswellcare.org
 theologystarlight.com
@@ -3702,6 +3855,7 @@ thermaltruck.com
 thermicplastic.uk
 theshopclub.org
 thesimplestairs.com
+thesoundyou.org
 thespaclub.net
 theway2get.com
 thicknessfreckles.org
@@ -3727,6 +3881,8 @@ ticket-selections.com
 tidinessabiding.com
 tightnessogle.net
 tiketon.info
+tiktok.do
+tilesget.net
 tilinggreeter.com
 tiltedgreenhouse.org
 timbersound.org
@@ -3751,6 +3907,7 @@ tipoffthieving.org
 tippedanvil.com
 tipperoverrate.net
 tips.jasperpfeiffer.com
+tipvortex.net
 tlgr-me.org
 tly.gr.com
 tly.link
@@ -3769,6 +3926,7 @@ top10leadsgen.com
 topadblocker.net
 topbraingames4u.com
 topcontactco.com
+topmark24.org
 topoems.com
 topten-news.info
 touristvaca.com
@@ -3795,6 +3953,7 @@ trapdoorpunisher.com
 trasportovic.com
 travel-foryou.online
 travelight.online
+travelow.org
 traveltogether.link
 traverseduplex.net
 traverseeducated.com
@@ -3829,6 +3988,7 @@ trimmerenvoy.net
 trinay.net
 tripleclickpays.com
 tripletowers.net
+triptrick.net
 trivialstock.net
 trkc.online
 tropicalalmanac.com
@@ -3842,6 +4002,7 @@ truckmarsh.uk
 truecaller.services
 trumpshallot.com
 trustfulunsolved.net
+trvelingguide.org
 trynotnow.net
 tsrt.xyz
 t-support.net
@@ -3892,6 +4053,7 @@ uberegypt.cn.com
 uidebol.info
 ultimatumgalore.net
 ultimauscita.net
+ultrajewelery.net
 umbrellacover.net
 unadorneddisburse.net
 unalignedonyx.net
@@ -3934,6 +4096,7 @@ unknownupfront.com
 unlightedprism.com
 un-limitededitions.com
 unlockaccount.net
+unlockcredit.net
 unlockedabroad.org
 unlockingplating.net
 unluckilywharf.com
@@ -4002,12 +4165,14 @@ upkeepno.com
 upload-now.net
 uponsurreal.com
 upperlair.org
+ups.so
 upstagedown.com
 upstateexponent.com
 upswinggreedless.com
 uptightattendee.com
 uptownfun.co
 urbanhouseladder.com
+urbanthree.eu
 urbestfriends.com
 urchindecipher.com
 url2all.net
@@ -4094,6 +4259,7 @@ violateascent.com
 vipmasajes.com
 viscoustiring.net
 viselikeheadstand.com
+vision-tech.org
 visitorsilo.link
 vitaminsportside.com
 viva-droid.com
@@ -4137,7 +4303,9 @@ wasted-nights.com
 wastetightenhub.org
 watchconsent.com
 watchplutonium.com
+waterfit.org
 waterforplants.net
+wateringreviews.org
 watersport4u.net
 waterunease.com
 wavekli.xyz
@@ -4157,6 +4325,7 @@ web-developper.net
 web-domain.net
 webexaminer.net
 web-hoster.co
+webjars.net
 weblive.pw
 web-loading.com
 web-loading.net
@@ -4176,6 +4345,7 @@ websitetosubmit.com
 web-spider.net
 webstrings.net
 websupporter.co
+webtechuse.net
 webtunnels.net
 webupdater.net
 web-url.net
@@ -4202,6 +4372,7 @@ whereismybonus.com
 whereismyhand.com
 whereismytree.net
 whereisthehat.com
+whiskytango.net
 whiteforks.net
 whitegardens.net
 whittawpasseth.org
@@ -4231,6 +4402,7 @@ wisehardware.net
 wishdownget.com
 without-additional.com
 witness-delay.com
+witquote.com
 wobbleaerosol.link
 wobblingduration.net
 wobblyprofessed.net
@@ -4284,6 +4456,7 @@ xnxx-hub.com
 xtremelivesupport.com
 xyvok.xyz
 y0utube.com.mx
+yachtatdock.com
 yahoo.llc
 yallakora-egy.com
 yandex-account-security.com
@@ -4297,6 +4470,7 @@ yellowgolfcar.link
 yellowwildtiger.com
 yieldecosphere.net
 yippeelaziness.net
+yogurthome.org
 youarefired.xyz
 youaresostupid.net
 youcantpass.com
