@@ -179,3 +179,4 @@ yavli.com
 zenkreka.com
 notepad.plus
 advertising-api-eu.amazon.com
+ollama.org
