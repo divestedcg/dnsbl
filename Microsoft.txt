@@ -2,7 +2,7 @@
 #Microsoft Blocklist
 #Distributed by Divested Computing Group
 #License: CC0
-#Last updated 2015/08/24
+#Last Updated: 2015-08-24
 #Covers: Ads/Analytics/Tracking
 #Extra Info: May break certain features
 #Donate: https://divested.dev/donate

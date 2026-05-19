@@ -1,6 +1,6 @@
 #
 #Created using Simple Hosts Merger
-#Last Updated: 2024/04/20
+#Last Updated: 2024-04-20
 #Number of Entries:
 #	Input Count: 100100
 #	Result Count: 74626

@@ -2,7 +2,7 @@
 #Disconnect Blocklist
 #Distributed by Divested Computing Group
 #License: GPL-3.0-or-later
-#Last updated 2015/09/19
+#Last Updated 2015-09-19
 #Covers: Ads/Analytics/Tracking
 #Extra Info: A plain-text, domains only version of the blocklist used in the Disconnect browser extension
 #Generated from https://disconnect.me/services-plaintext.json

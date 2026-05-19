@@ -1,7 +1,7 @@
 #
 #Amnesty International Investigations Blocklist
 #License: CC BY 2.0
-#Last updated 2024/05/02
+#Last Updated: 2024-05-02
 #https://github.com/amnestytech/investigations
 #cat */*domains* */*/*domains* | sort -u > Amnesty.txt
 #

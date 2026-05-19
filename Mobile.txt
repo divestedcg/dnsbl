@@ -2,10 +2,10 @@
 #Mobile Blocklist
 #Distributed by Divested Computing Group
 #License: GPL-3.0-or-later
-#Last updated 2016/01/05
+#Last Updated: 2016-01-05
 #Covers: Ads/Analytics/Malware/Misc/Scam/Spam/Tracking
-#http://adblock.gjtech.net/?format=unix-hosts merged on 08/23/2015
-#https://adaway.org/hosts.txt merged on 08/23/2015
+#http://adblock.gjtech.net/?format=unix-hosts merged on 2015-08-23
+#https://adaway.org/hosts.txt merged on 2015-08-23
 #Donate: https://divested.dev/donate
 #
 
